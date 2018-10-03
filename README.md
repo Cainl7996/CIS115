@@ -1,3 +1,3 @@
 # CIS115
-# Larissa Cain
-# Oct.3.2018
+Larissa Cain
+Oct.3.2018
